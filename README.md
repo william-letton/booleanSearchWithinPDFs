@@ -1,2 +1,2 @@
-# booleanSearchWithinPDFs
-code files for the boolean search for words within PDFs
+# Boolean-search-within-pdfs
+code for performing boolean searches within a folder of pdfs

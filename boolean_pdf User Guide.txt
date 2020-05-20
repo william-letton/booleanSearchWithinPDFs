@@ -1,0 +1,10 @@
+boolean_pdf program user guide
+
+This program will search through the text of each PDF file in the folder the presence of user-defined words. The output file will read "TRUE" if that word is found at least once in the PDF text and "FALSE" if not.
+
+1) Install Rstudio on your machine.
+2) Copy and Paste the boolean_pdf.R file into the folder containing the pdfs to be searched.
+3) Double-click on the boolean_pdf.R file to open it in RStudio.
+4) Click the button that has a white square with a blue arrow pointing to the word "Source". This should run the program.
+5) When prompted in the console (bottom left), click anywhere on the console and then follow the instructions to enter your keywords.
+6) The program will create a cvs file called "Boolean_results.csv" in the pdf folder. This can be opened in Microsoft Excel.
